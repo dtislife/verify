@@ -1,0 +1,18 @@
+{
+    "name": "dtislife/verify",
+    "description": "验证相关插件",
+    "keywords": ["验证", "verify"],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dtislife\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Dtislife\\": "src/"
+        }
+    }
+}
